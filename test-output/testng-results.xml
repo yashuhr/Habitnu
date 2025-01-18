@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-18T19:18:44 IST" name="Default suite" finished-at="2025-01-18T19:18:53 IST" duration-ms="9187">
+    <groups>
+    </groups>
+    <test started-at="2025-01-18T19:18:44 IST" name="Default test" finished-at="2025-01-18T19:18:53 IST" duration-ms="9187">
+      <class name="Blazedemo.tests.FlightBookingConfirmationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Blazedemo.tests.FlightBookingConfirmationTest@9d5509a]" started-at="2025-01-18T19:18:44 IST" name="setup" finished-at="2025-01-18T19:18:49 IST" duration-ms="5134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC1_ValidateFlightBookingConfirmationBySelectingLowestPriceFlight()[pri:0, instance:Blazedemo.tests.FlightBookingConfirmationTest@9d5509a]" started-at="2025-01-18T19:18:49 IST" name="TC1_ValidateFlightBookingConfirmationBySelectingLowestPriceFlight" finished-at="2025-01-18T19:18:53 IST" duration-ms="3751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_ValidateFlightBookingConfirmationBySelectingLowestPriceFlight -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Blazedemo.tests.FlightBookingConfirmationTest@9d5509a]" started-at="2025-01-18T19:18:53 IST" name="closeBrowser" finished-at="2025-01-18T19:18:53 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Blazedemo.tests.FlightBookingConfirmationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
